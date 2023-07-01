@@ -1,4 +1,3 @@
-### Hi there 👋
 I am a web developer and backend engineer, passionate about crafting innovative solutions and creating robust applications.
 
 <table>
