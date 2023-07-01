@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-django-1572B6?&style=for-the-badge&logo=django&logoColor=black" />
 <img src="https://img.shields.io/badge/-eclipse-1572B6?&style=for-the-badge&logo=eclipse&logoColor=black" />
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+
 
 <td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingMasterLSW&layout=compact&theme=radical" width="500" />
