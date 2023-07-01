@@ -4,21 +4,26 @@ I am a web developer and backend engineer, passionate about crafting innovative 
 
 
 
+
+
+
+
 <table>
 <tr>
 
 <td valign="top" width="50%">
-<h2 align="center"> Languages and Tools </h2>
-<br />
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<img src="https://img.shields.io/badge/-python-1572B6?&style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/-java-F89820?&style=for-the-badge&logo=java&logoColor=black" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-django-1572B6?&style=for-the-badge&logo=django&logoColor=black" />
-<img src="https://img.shields.io/badge/-eclipse-1572B6?&style=for-the-badge&logo=eclipse&logoColor=black" />
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
 
 <td valign="top" width="50%">
