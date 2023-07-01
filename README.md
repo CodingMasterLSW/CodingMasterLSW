@@ -26,9 +26,6 @@ I am a web developer and backend engineer, passionate about crafting innovative 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
 
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingMasterLSW&layout=compact&theme=radical" width="500" />
-</td>
 
 </tr>
 </table> 
