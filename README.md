@@ -1,4 +1,5 @@
 ### Hi there 👋
+"I am a web developer and backend engineer, passionate about crafting innovative solutions and creating robust applications.
 
 <table>
 <tr>
@@ -15,7 +16,7 @@
 <img src="https://img.shields.io/badge/-django-1572B6?&style=for-the-badge&logo=django&logoColor=black" />
 <img src="https://img.shields.io/badge/-eclipse-1572B6?&style=for-the-badge&logo=eclipse&logoColor=black" />
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 
 <td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingMasterLSW&layout=compact&theme=radical" width="500" />
