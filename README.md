@@ -1,4 +1,4 @@
-<h2>I am a web developer and back-end engineer.</h2>
+<h2>I am a back-end developer.</h2>
 
 <br>
 
