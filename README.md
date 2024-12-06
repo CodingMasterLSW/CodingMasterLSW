@@ -1,14 +1,7 @@
 <h2>Thank you for visiting my Github!</h2>
 
-### [Visit my Portfolio](https://accessible-check-7ef.notion.site/360afa92c7ff46f4907f9610d787b513)
-
 <br>
 <br>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzfast)](https://solved.ac/zzfast)
-
-
-
 
 
 
